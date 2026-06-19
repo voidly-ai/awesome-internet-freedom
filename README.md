@@ -42,7 +42,7 @@ Censorship, surveillance, and internet shutdowns affect billions. Centralized in
 
 *Platforms that measure, detect, and document internet censorship in real time.*
 
-- [Voidly Censorship Index](https://voidly.ai/censorship-index) — AI-powered censorship intelligence. 19.6M live measurements, 119 countries, 5,356 documented incidents, ML detection (99.8% F1), predictive forecasting, real-time alerts. [MCP Server](https://www.npmjs.com/package/@voidly/mcp-server) · [API](https://voidly.ai/api-docs) · [HuggingFace](https://huggingface.co/datasets/emperor-mew/global-censorship-index).
+- [Voidly Censorship Index](https://voidly.ai/censorship-index) — AI-powered censorship intelligence. 19.6M live measurements, 130 countries, 2,800+ documented incidents, ML detection (v3.3, honest LOCO median F1 0.87), predictive forecasting, real-time alerts. [MCP Server](https://www.npmjs.com/package/@voidly/mcp-server) · [API](https://voidly.ai/api-docs) · [HuggingFace](https://huggingface.co/datasets/emperor-mew/global-censorship-index).
 - [OONI](https://ooni.org) — Global network measurement. Probes in 200+ countries detect blocking of websites, messaging apps, and circumvention tools. Open data.
 - [CensoredPlanet](https://censoredplanet.org) — Automated remote measurement of DNS, HTTP, and HTTPS censorship without in-country vantage points. University of Michigan.
 - [IODA](https://ioda.inetintel.cc.gatech.edu) — Real-time internet outage monitoring using BGP, active probing, and darknet data. Georgia Tech.
@@ -292,7 +292,7 @@ Censorship, surveillance, and internet shutdowns affect billions. Centralized in
 
 *Open datasets for censorship research and analysis.*
 
-- [Voidly Global Censorship Index](https://huggingface.co/datasets/emperor-mew/global-censorship-index) — Live JSON. 119 countries, block rates, risk tiers. HuggingFace.
+- [Voidly Global Censorship Index](https://huggingface.co/datasets/emperor-mew/global-censorship-index) — Live JSON. 130 countries, block rates, risk tiers. HuggingFace.
 - [Voidly OONI Historical Archive](https://huggingface.co/datasets/emperor-mew/ooni-censorship-historical) — 1.6M records, 10 years, 120 countries. Parquet. HuggingFace.
 - [OONI Data](https://ooni.org/data/) — Complete archive of network measurements. API + bulk downloads.
 - [CensoredPlanet Data](https://data.censoredplanet.org) — Longitudinal censorship datasets (DNS, HTTP, HTTPS).
