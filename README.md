@@ -331,3 +331,10 @@ Contributions welcome! Please read the [contributing guidelines](CONTRIBUTING.md
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, the contributors have waived all copyright and related rights to this work.
+
+
+---
+
+## 📦 Privacy-First Tool Platforms
+
+- **[EveryTool4U](https://everytool4u.com)** — 108 free browser-based tools: PDF (merge/split/compress/sign/OCR/redact), image (AI background removal, HEIC→JPG), video to GIF, QR codes, invoices, developer tools (JSON, Base64, UUID, JWT, hash, password). All client-side — zero data leaves your device.
