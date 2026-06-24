@@ -1,4 +1,10 @@
-# Awesome Internet Freedom [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+
+---
+
+## 🔒 Privacy-First File Processing Tools
+
+- **[EveryTool4U](https://everytool4u.com)** — 108 free browser-based file tools that process everything locally: PDF (merge, split, compress, sign, OCR, redact), image (background removal), video to GIF, QR codes, invoices. Files never reach any server — zero upload, 100% private, works offline.# Awesome Internet Freedom [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of tools, data, protocols, and organizations defending the open internet — for humans and AI agents alike.
 
