@@ -91,6 +91,7 @@ Censorship, surveillance, and internet shutdowns affect billions. Centralized in
 - [Voidly Agent Relay (VAR)](https://voidly.ai/agents) — E2E encrypted agent messaging. Double Ratchet, X3DH, ML-KEM-768 post-quantum, sealed sender, deniable auth, federation, offline queue. npm: [`@voidly/agent-sdk`](https://www.npmjs.com/package/@voidly/agent-sdk).
 - [Google A2A Protocol](https://github.com/google/A2A) — Agent-to-Agent protocol for interoperable agent communication.
 - [Model Context Protocol (MCP)](https://modelcontextprotocol.io) — Anthropic's protocol for connecting AI models to tools and data sources.
+- [Pilot Protocol](https://pilotprotocol.network) — Open-source overlay network giving AI agents a permanent virtual address, encrypted UDP tunnels, NAT traversal, and an explicit per-peer trust model. Complements schema-level protocols like MCP by handling transport, addressing, and trust rather than message format.
 
 ## Federated Protocols
 
