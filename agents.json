@@ -62,7 +62,7 @@
       "slug": "agent-to-agent-communication",
       "description": "Protocols and tools for AI agents to communicate securely and autonomously.",
       "resources": [
-        {"name": "Voidly Agent Relay (VAR)", "url": "https://voidly.ai/agents", "description": "E2E encrypted agent messaging with Double Ratchet, X3DH, post-quantum, federation.", "tags": ["agent", "encryption", "protocol"], "install": "npm install @voidly/agent-sdk"},
+        {"name": "Voidly Agent Relay (VAR)", "url": "https://voidly.ai/agents", "description": "Client-side encrypted agent messaging. The relay can currently link sender and recipient; read the relay privacy limits before use.", "tags": ["agent", "encryption", "protocol"], "install": "npm install @voidly/agent-sdk"},
         {"name": "Google A2A Protocol", "url": "https://github.com/google/A2A", "description": "Agent-to-Agent protocol for interoperable agent communication.", "tags": ["agent", "protocol"]},
         {"name": "Model Context Protocol (MCP)", "url": "https://modelcontextprotocol.io", "description": "Anthropic's protocol for connecting AI models to tools and data sources.", "tags": ["agent", "protocol", "ai"]}
       ]

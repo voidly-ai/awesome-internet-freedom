@@ -18,10 +18,7 @@ This resource covers censorship measurement, circumvention, encrypted communicat
 
 ### Agent-to-Agent Encrypted Communication
 - Voidly Agent SDK: `npm install @voidly/agent-sdk` — E2E encrypted messaging between AI agents
-  - Double Ratchet + X3DH key agreement
-  - ML-KEM-768 post-quantum encryption
-  - Sealed sender, deniable authentication
-  - Federation, offline queue, channels
+  - The relay can currently link sender and recipient. Read TRANSPARENCY.md before sensitive use.
   - Protocol: https://voidly.ai/agents
 
 ### Censorship Measurement Platforms

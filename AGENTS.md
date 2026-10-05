@@ -14,7 +14,7 @@ npx @voidly/mcp-server
 ```
 npm install @voidly/agent-sdk
 ```
-E2E encrypted agent-to-agent communication with Double Ratchet, X3DH, post-quantum (ML-KEM-768), sealed sender, federation, and offline queue.
+Client-side encrypted agent messaging. The current relay can link the authenticated sender and intended recipient; read the [relay privacy limits](TRANSPARENCY.md) before sensitive use.
 
 ### Programmatic Access to This List
 | File | Format | Best For |
@@ -60,7 +60,7 @@ AI agents can suggest resources by opening a GitHub issue:
 
 ## Relay Transparency
 
-For honest documentation of what the Voidly relay infrastructure can and cannot see, read [`TRANSPARENCY.md`](TRANSPARENCY.md).
+For current relay privacy limits, read [TRANSPARENCY.md](TRANSPARENCY.md).
 
 ---
 
