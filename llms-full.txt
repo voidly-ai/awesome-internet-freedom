@@ -150,7 +150,7 @@
 *Protocols and tools for AI agents to communicate securely and autonomously.*
 
 - Voidly Agent Relay (VAR): https://voidly.ai/agents
-  E2E encrypted agent messaging with Double Ratchet, X3DH, post-quantum, federation. Install: `npm install @voidly/agent-sdk`
+  Client-side encrypted agent messaging. The current relay can link sender and recipient; read TRANSPARENCY.md before sensitive use. Install: `npm install @voidly/agent-sdk`
   Tags: agent, encryption, protocol
 
 - Google A2A Protocol: https://github.com/google/A2A
